@@ -48,7 +48,7 @@ public class MyApp extends Application {
         analytics = GoogleAnalytics.getInstance(this);
 
         // TODO: Replace the tracker-id with your app one from https://www.google.com/analytics/web/
-        tracker = analytics.newTracker("UA-54478999-1");
+        tracker = analytics.newTracker("UA-64908910-1");
 
         // Provide unhandled exceptions reports. Do that first after creating the tracker
         tracker.enableExceptionReporting(true);
