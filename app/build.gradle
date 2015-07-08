@@ -15,7 +15,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.example.googleanalyticshelloworld"
+        applicationId "com.ccc.googleanalyticshelloworld"
         minSdkVersion 9
         targetSdkVersion 21
         versionCode Integer.parseInt(buildTime())
